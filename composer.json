@@ -1,0 +1,15 @@
+{
+    "name": "machrafemergento/composer-test",
+    "type": "library",
+    "description": "Composer Test Package, Do Not Install",
+    "require": {
+        "laravel/laravel": "^9.3"
+    },
+    "authors": [
+        {
+            "name": "Mo",
+            "email": "m.assadiki@emergento.com"
+        }
+    ],
+    "license": "MIT"
+}
